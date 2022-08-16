@@ -1,0 +1,14 @@
+h3{
+    color: white;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+body {
+    background-image: url("static/tree_background.jpeg");
+  }
+  #forth_background {
+  background-image: url("static/mint-green_background.jpeg");
+  padding: 8px;
+  }
